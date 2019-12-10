@@ -20,7 +20,7 @@ public class AnalizadorLexico {
     public static void main(String[] args) throws IOException {
         ArrayList<String> programa = new ArrayList <String>();
         lexico l = new lexico();
-        programa = l.obtenerArchivo();
+       // programa = l.obtenerArchivo();
         
     }
     
